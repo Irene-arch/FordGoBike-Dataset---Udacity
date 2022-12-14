@@ -3,7 +3,7 @@
 ## Dataset
 
 This data set includes information about individual rides made in a bike-sharing  system covering the greater San Francisco Bay area for the month of February 2019. 
-The dataset can be found in thefollowing link provided by Udacity 
+The dataset can be found in the following link provided by Udacity 
 [here](https://docs.google.com/document/d/e/2PACX-1vQmkX4iOT6Rcrin42vslquX2_wQCjIa_hbwD0xmxrERPSOJYDtpNc_3wwK_p9_KpOsfA6QVyEHdxxq7/pub),
 
 
