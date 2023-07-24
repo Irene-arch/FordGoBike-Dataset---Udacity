@@ -41,4 +41,11 @@ Male customers prefer to ride on Thursdays and Fridays while female customers pr
 
 For the presentation, I focus on the usage of the service by users according to their gender, user category and age. I start by plotting a pie chart showing the gender distribution of the users followed by introducing a new column called start_hour that extracts the hour of the day when the users use the service. This is an important insight because it could help the service providers know what time of day to do repairs or maintenance for their bikes with affecting their users negatively.
 
+![image](https://github.com/Irene-arch/FordGoBike-Dataset-Udacity/assets/56026296/23385df9-d47d-4f62-a74c-87ae716205d7)
+
 Afterwards, I looked at how each category of users uses the service per day and plotted it on a bar chart which showed clearly the most popular days. I went ahead and broke it down further into the most popular hour of the day and what age of users were associated with it. I used a heatmap for this and the darker shades on the heatmap provided the required insights.
+
+![image](https://github.com/Irene-arch/FordGoBike-Dataset-Udacity/assets/56026296/1e89fada-4362-438c-a925-6d2004494457)
+
+You can view more insights by downloading and opening [this file](https://github.com/Irene-arch/FordGoBike-Dataset-Udacity/blob/main/Part%201%20-%20FordGo%20Bike%20System%20Data.html) in your browser.
+
